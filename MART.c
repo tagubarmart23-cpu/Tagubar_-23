@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void)
+int main()
 {
     int employee_count;
     int higher_rate_count = 0;
